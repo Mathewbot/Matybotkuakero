@@ -1,5 +1,5 @@
 {
-  "name": "Satanica-BOT",
+  "name": "Maty-botkuaker",
   "version": "9.9.9",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Satanica",
+  "author": "bot-kuaker ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
